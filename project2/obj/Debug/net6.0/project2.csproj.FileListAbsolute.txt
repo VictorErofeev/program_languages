@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\bin\Debug\net6.0\project2.exe
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\bin\Debug\net6.0\project2.deps.json
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\bin\Debug\net6.0\project2.dll
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\bin\Debug\net6.0\ref\project2.dll
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\bin\Debug\net6.0\project2.pdb
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\obj\Debug\net6.0\project2.dll
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\obj\Debug\net6.0\ref\project2.dll
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\obj\Debug\net6.0\project2.pdb
+C:\Users\admin\Documents\GeekBrains\program_languages\lesson1\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
